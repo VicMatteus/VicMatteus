@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 <div style="display: inline-block; text-align:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=VicMatteus&theme=tokyonight" height="175px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMatteus" height="175px"/>
-<!--Ocultei o CSS pois era discrepante devido ao Bootstrap. Apenas um repo com o btstrap pegava cerca de 90% das linguagens mais usadas.-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMatteus&theme=tokyonight&layout=compact&hide=css" height="175px"/>
+<!--Ocultei o CSS pois era discrepante devido ao Bootstrap. Apenas um repo com o btstrap pegava cerca de 90% das linguagens mais usadas, mas isso acaba ocultando o C tbm.-->
 </div>
 
 ##
