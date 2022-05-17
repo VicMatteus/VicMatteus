@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Atualmente eu sou um estudante de engenharia de computação na Universidade Federal do Ceará
+- 👨‍🏫 Curto muito aprender e ensinar. Afinal, de quê vale aprender tudo e não compartilhar com ninguém?
 - ⚡ Gosto bastante da tecnologia como um todo e de tudo de bom que ela pode fazer pela humanidade!
 - 🎮 Também adoro jogar!
 - 📫 Como me contactar: 
