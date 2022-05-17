@@ -32,8 +32,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br>
-
 ##
 
 <div  align="center" width="100%">
