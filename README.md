@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="6%"/>
                                                                                                    
-  <img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.svg" width="10%"/>
+  <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="10%"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="6%"/>
   
