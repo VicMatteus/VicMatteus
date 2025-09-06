@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 -->
 
 ##
-<!--
+
 
  - 👨‍💻 Tecnologias que uso ou já usei:
 <section align="center">
-<!-- tecnologias que conheço --
+<!-- tecnologias que conheço -->
 
-<!-- WEB --
+<!-- WEB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="6%"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="6%"/>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="6%"/>
                                                                                                    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="6%" />                                                                                                                                          
-<!--Sistemas--
+<!--Sistemas-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="6%"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="6%"/>
@@ -73,16 +73,16 @@ Here are some ideas to get you started:
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="6%"/>
 
-<!-- GIT --
+<!-- GIT -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="6%"/>
 
   <img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="6%"/>
                                                                                                   
-<!-- TESTES --
+<!-- TESTES -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="6%"/>
 
 </section>
 
--->
+
 
 
