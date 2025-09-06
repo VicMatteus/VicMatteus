@@ -23,13 +23,13 @@ Here are some ideas to get you started:
     <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="escudo com a logo do Instagram" height="40em">
   </a>
   <a href="http://www.linkedin.com/in/vitor-mateus-computer-engineering-stdt"> 
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="escudo com a logo do Linkedin" height="40">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="escudo com a logo do Linkedin" height="40em">
   </a>
   <a href="https://github.com/VicMatteus"> 
-    <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="escudo com a logo do Github" height="40m">
+    <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="escudo com a logo do Github" height="40em">
   </a>
   <a href="https://steamcommunity.com/profiles/76561198153442683/"> 
-    <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="40m">
+    <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="40em">
   </a>
 </div>
 
